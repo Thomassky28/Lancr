@@ -10,7 +10,7 @@ if ['development', 'test'].include? ENV['RAILS_ENV']
 end
 
 
-Dotenv::Railtie.load
+
 
 module Lancr
   class Application < Rails::Application
