@@ -9,6 +9,13 @@ built on ruby '2.3.5' and rails  5.2.1
 
 run bundle install + db:create and then seed with seeds created with Faker to simulate users, posts and buildings.
 
+## Stripe Testing (Payment)
+
+Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+
+More information in their docs: <https://stripe.com/docs/testing#cards>
+
+
 ## Final Product Demo
 
 ## Customer Features:
