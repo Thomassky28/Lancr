@@ -25,7 +25,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Service-provider Features:
 
-* If users sign up as service-providers, they need to upload biography information.
+* If users sign up as service-providers, they are required to upload biography information.
 
 !["upload-bio"](https://github.com/neenus/Lancr/blob/master/doc/upload-bio.gif)
 
@@ -33,6 +33,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["Provider-create-service"](https://github.com/neenus/Lancr/blob/master/doc/Provider-create-service.gif)
 
-* Service-provider could view services lists to check booking information.
+* Services lists are used to check customer booking information by service-providers.
 
 !["provider-dashboard"](https://github.com/neenus/Lancr/blob/master/doc/provider-dashboard.gif)
