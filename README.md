@@ -33,6 +33,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["Provider-create-service"](https://github.com/neenus/Lancr/blob/master/doc/Provider-create-service.gif)
 
-* Services lists are used to check customer booking information by service-providers.
+* Services lists are used to check customer booking information.
 
 !["provider-dashboard"](https://github.com/neenus/Lancr/blob/master/doc/provider-dashboard.gif)
