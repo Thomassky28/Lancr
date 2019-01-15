@@ -29,10 +29,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["upload-bio"](https://github.com/neenus/Lancr/blob/master/doc/upload-bio.gif)
 
-* As service-providers, they are able to post a work and set available time.
+* As service-providers, they are able to post work and set available time.
 
 !["Provider-create-service"](https://github.com/neenus/Lancr/blob/master/doc/Provider-create-service.gif)
 
-* Service-provider can check if their services have been booked or not.
+* Service-provider has services lists which show reservation information.
 
 !["provider-dashboard"](https://github.com/neenus/Lancr/blob/master/doc/provider-dashboard.gif)
